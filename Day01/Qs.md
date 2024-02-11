@@ -22,3 +22,9 @@
 2. **Virtual DOM:** When component state or props change, a lightweight JavaScript representation (Virtual DOM) of the UI is created.
 3. **Diffing:** React compares the updated Virtual DOM with the previous one to identify the minimal changes necessary in the real DOM. This optimized approach minimizes expensive DOM manipulations, delivering efficient updates.
 4. **Real DOM Updates:** React performs only the essential DOM updates to reflect the changes in the UI as efficiently as possible.
+
+## Virtual DOM
+
+### Resources:
+
+`https://github.com/code0monkey1/mern-stack-interview-questions/blob/master/React/Virtual-DOM-and-Reconciliation-Algorithm.md`
